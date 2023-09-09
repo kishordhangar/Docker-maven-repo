@@ -54,11 +54,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://192.168.1.9:8081/repository/kishor-maven-snapshot/</url>
+      <url>http://192.168.1.15:8081/repository/kishor-maven-snapshot/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://192.168.1.9:8081/repository/kishor-maven-snapshot/</url>
+      <url>http://192.168.1.15:8081/repository/kishor-maven-snapshot/</url>
     </repository>
   
   </distributionManagement>
