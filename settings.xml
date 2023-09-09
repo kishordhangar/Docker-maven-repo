@@ -35,7 +35,7 @@
        <repository>
          <id>kishor-maven-snapshot</id>
          <name>your custom repo</name>
-         <url>http://192.168.1.9:8081/repository/kishor-maven-snapshot/</url>
+         <url>http://192.168.1.15:8081/repository/kishor-maven-snapshot/</url>
        </repository>
      </repositories>
    </profile>
@@ -45,7 +45,7 @@
        <repository>
          <id>kishor-maven</id>
          <name>your custom repo</name>
-         <url>http://192.168.1.9:8081/repository/kishor-maven-snapshot/</url>
+         <url>http://192.168.1.15:8081/repository/kishor-maven-snapshot/</url>
        </repository>
      </repositories>
    </profile>
